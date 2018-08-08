@@ -1,6 +1,3 @@
-name: MakeHistoryTemplate
-main: com.kodingkingdom.makehistory.TemplatePlugin
+name: Pager
+main: com.kodingkingdom.pager.PagerPlugin
 version: 0.0.1
-softdepend: [WorldEdit,ProtocolLib]
-commands:
-   mkh:
